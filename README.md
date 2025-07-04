@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#3b82f6;">Ayush Kumar</span></h1>
+<p align="center"><em>Code. Commit. Conquer.</em></p>
 <h3 align="center">🚀 Web Developer | Tech Explorer | B.Tech Student</h3>
 
 <p align="center">
