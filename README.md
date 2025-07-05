@@ -39,12 +39,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkr018&layout=compact&theme=radical&hide_border=true" width="60%" />
 </p>
 
----
 
 ### 📫 Let's Connect
 
 - 📧 Gmail: **ayushkr1974@gmail.com**
-- 🌍 Portfolio: [http://courageous-nasturtium-f1bd76.netlify.app/)
+- 🌍 Portfolio: [https://ayushkr-profile.netlify.app/)
 
 ---
 
