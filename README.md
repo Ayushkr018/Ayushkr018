@@ -11,7 +11,7 @@
 
 ### 🔗 Portfolio
 
-> 🎯 Explore my work and projects at 👉 [Portfolio Website](http://courageous-nasturtium-f1bd76.netlify.app/)  
+> 🎯 Explore my work and projects at 👉 [Portfolio Website](https://ayushkr-profile.netlify.app/)  
 > 📌 Don't forget to check out my GitHub activity below 👇
 
 ---
