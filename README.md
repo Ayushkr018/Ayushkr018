@@ -31,17 +31,14 @@
 ### 📈 GitHub Insights
 
 <p align="center">
-  <!-- All commits including private & forks -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushkr018&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="48%" />
-
-  <!-- Real-time contribution streak -->
-  <img src="https://github-readme-stats.vercel.app/api/streak_stats?user=Ayushkr018&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushkr018&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushkr018&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <!-- Top languages across all repos -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkr018&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkr018&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </p>
+
 ---
 
 ### 📫 Let's Connect
