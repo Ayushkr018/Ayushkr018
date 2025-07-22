@@ -1,56 +1,69 @@
-<h1 align="center">✨ Hey there! I'm <span style="color:#3b82f6;">Ayush Kumar</span> ✨</h1>
-<p align="center"><em>Code • Commit • Conquer</em></p>
-
-<h3 align="center">👨‍💻 Web Developer | 💡 Tech Explorer | 🎓 B.Tech Student</h3>
+<h1 align="center">Hi there, I'm Ayush Kumar 👋</h1>
+<p align="center"><em>› Code • Commit • Conquer</em></p>
 
 <p align="center">
-  🔭 I’m currently learning <strong>Fullstack Web Development</strong><br>
-  💡 I love experimenting with new tech and building cool things on the web.<br>
-  🚀 Always exploring ways to improve and grow as a developer.
-</p>
-
-<br/>
-
----
-
-### 🔗 Portfolio & Projects
-
-<p align="center">
-  🌐 Check out my work at 👉 <a href="https://ayushkr-profile.netlify.app/" target="_blank"><strong>ayushkr-profile.netlify.app</strong></a>  
+  🎓 B.Tech CSE | 👨‍💻 Developer | 🚀 AI Enthusiast  
 </p>
 
 ---
 
-### ⚒️ My Tech Toolbox
+### 🧑‍💻 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,bootstrap,react,tailwind" /><br/>
-  <img src="https://skillicons.dev/icons?i=linux,vscode,nodejs,figma" />
-</p>
-
----
-
-### 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushkr018&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushkr018&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkr018&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+- 👨‍🎓 I'm a 3rd-year Computer Science student (Batch 2022–2026)  
+- 🧠 I enjoy building smart applications that solve real-world problems  
+- 💻 Comfortable with Python, Java, C++, and web technologies  
+- 🎯 Currently exploring AI, automation, and full-stack projects
 
 ---
 
-### 📫 Connect With Me
+### 🔧 Skills & Tools
 
-<p align="center">
-  <a href="mailto:ayushkr1974@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://ayushkr-profile.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=web&logoColor=white" /></a>
-</p>
+- **Languages:** Python, Java, C++, JavaScript  
+- **Frontend:** HTML5, CSS3, JavaScript (Vanilla)  
+- **Backend:** Node.js, Express (basics)  
+- **AI & NLP:** spaCy, Transformers, FAISS, OpenAI API  
+- **Databases:** MongoDB, MySQL  
+- **Tools:** Git, GitHub, VS Code, Postman  
+- **Others:** Tkinter, Pyttsx3, SpeechRecognition, PyWhatKit, Tailwind CSS
 
 ---
 
-<p align="center">💬 “Strive for progress, not perfection.”</p>
+### 🛠️ Notable Projects
+
+#### 🤖 Ellyse – Your Virtual Ace  
+A Python-based voice assistant with modular architecture (GUI + voice + logic).  
+> Features: alarms, WhatsApp messages, jokes, temperature check, file manager, and more.
+
+#### 🌐 Portfolio Website  
+My personal portfolio showcasing skills, projects, and resume.  
+> Built using advanced Vanilla JavaScript, CSS3 animations, and mobile responsiveness.  
+🔗 [Visit Site](https://ayushkr-profile.netlify.app/)
+
+#### 😇 Niva – Sentiment Analyzer  
+Text-based sentiment classification using NLP and machine learning.
+
+---
+
+### 🎯 Currently Working On
+
+- Finishing the full backend for my AI Help Bot  
+- Adding more interactive features to my portfolio  
+- Exploring React.js and advanced JavaScript  
+- Preparing for upcoming tech hackathons
+
+---
+
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayushkr018/)  
+- 🧑‍💻 [Portfolio Website](https://ayushkr-profile.netlify.app/)  
+- 📧 Email: ayushkr018@gmail.com  
+
+---
+
+<p align="center"><em>💬 “Strive for progress, not perfection.”</em></p>
 <p align="center">© 2025 Ayush Kumar • Built with 💻 + ☕</p>
+
