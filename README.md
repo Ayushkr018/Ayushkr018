@@ -1,69 +1,54 @@
-<h1 align="center">Hi there, I'm Ayush Kumar 👋</h1>
-<p align="center"><em>› Code • Commit • Conquer</em></p>
+<h1 align="center">✨ Hey there! I'm <span style="color:#3b82f6;">Ayush Kumar</span> ✨</h1>
+<p align="center"><em>Code • Commit • Conquer</em></p>
+
+<h3 align="center">👨‍💻 Web Developer | 💡 Tech Explorer | 🎓 B.Tech CSE Student</h3>
 
 <p align="center">
-  🎓 B.Tech CSE | 👨‍💻 Developer | 🚀 AI Enthusiast  
+  🔭 Currently exploring <strong>Fullstack Web Development</strong><br>
+  💡 Passionate about building intuitive digital experiences and solving real-world problems.<br>
+  🚀 Always learning. Always improving.
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🔗 Portfolio & Projects
 
-- 👨‍🎓 I'm a 3rd-year Computer Science student (Batch 2022–2026)  
-- 🧠 I enjoy building smart applications that solve real-world problems  
-- 💻 Comfortable with Python, Java, C++, and web technologies  
-- 🎯 Currently exploring AI, automation, and full-stack projects
-
----
-
-### 🔧 Skills & Tools
-
-- **Languages:** Python, Java, C++, JavaScript  
-- **Frontend:** HTML5, CSS3, JavaScript (Vanilla)  
-- **Backend:** Node.js, Express (basics)  
-- **AI & NLP:** spaCy, Transformers, FAISS, OpenAI API  
-- **Databases:** MongoDB, MySQL  
-- **Tools:** Git, GitHub, VS Code, Postman  
-- **Others:** Tkinter, Pyttsx3, SpeechRecognition, PyWhatKit, Tailwind CSS
+<p align="center">
+  🌐 Explore my work at 👉 <a href="https://ayushkr-profile.netlify.app/" target="_blank"><strong>ayushkr-profile.netlify.app</strong></a>  
+</p>
 
 ---
 
-### 🛠️ Notable Projects
+### ⚒️ Tech Toolbox
 
-#### 🤖 Ellyse – Your Virtual Ace  
-A Python-based voice assistant with modular architecture (GUI + voice + logic).  
-> Features: alarms, WhatsApp messages, jokes, temperature check, file manager, and more.
-
-#### 🌐 Portfolio Website  
-My personal portfolio showcasing skills, projects, and resume.  
-> Built using advanced Vanilla JavaScript, CSS3 animations, and mobile responsiveness.  
-🔗 [Visit Site](https://ayushkr-profile.netlify.app/)
-
-#### 😇 Niva – Sentiment Analyzer  
-Text-based sentiment classification using NLP and machine learning.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,python,nodejs,git,github" /><br/>
+  <img src="https://skillicons.dev/icons?i=linux,vscode,figma" />
+</p>
 
 ---
 
-### 🎯 Currently Working On
+### 📈 GitHub Insights
 
-- Finishing the full backend for my AI Help Bot  
-- Adding more interactive features to my portfolio  
-- Exploring React.js and advanced JavaScript  
-- Preparing for upcoming tech hackathons
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushkr018&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushkr018&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
----
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkr018&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+</p>
 
 ---
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ayushkr018/)  
-- 🧑‍💻 [Portfolio Website](https://ayushkr-profile.netlify.app/)  
-- 📧 Email: ayushkr018@gmail.com  
+<p align="center">
+  <a href="mailto:ayushkr1974@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://ayushkr-profile.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=web&logoColor=white" /></a>
+</p>
 
 ---
 
-<p align="center"><em>💬 “Strive for progress, not perfection.”</em></p>
+<p align="center">💬 <em>“Strive for progress, not perfection.”</em></p>
 <p align="center">© 2025 Ayush Kumar • Built with 💻 + ☕</p>
-
