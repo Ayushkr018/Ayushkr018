@@ -14,7 +14,7 @@
 ### 🔗 Portfolio & Projects
 
 <p align="center">
-  🌐 Explore my work at 👉 <a href="https://ayushkr-profile.netlify.app/" target="_blank"><strong>ayushkr-profile.netlify.app</strong></a>  
+  🌐 Explore my work at 👉 <a href="https://ayushprofile18.netlify.app/" target="_blank"><strong>ayushkr-profile.netlify.app</strong></a>  
 </p>
 
 ---
