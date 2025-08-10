@@ -15,7 +15,7 @@
 ### 🌐 **Portfolio & Live Projects**
 
 <p align="center">
-  <a href="https://ayushprofile18.netlify.app/" target="_blank">
+  <a href="https://ayushkrprofile018.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🔗_Live_Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" />
   </a>
   <a href="https://github.com/Ayushkr018" target="_blank">
@@ -26,7 +26,7 @@
 **🎯 Featured Projects:**
 - 🤖 **[Ellyse AI Assistant](https://github.com/Ayushkr018/Ai-Voice-Assistant-source-code-)** - Smart voice-controlled AI with emotion recognition
 - 📈 **[Sentiment Analyzer](https://github.com/Ayushkr018/Sentiment-Analyzer)** - Real-time emotion detection from voice input
-- 💼 **[Dynamic Portfolio](https://ayushprofile18.netlify.app/)** - Modern responsive portfolio with dark/light mode
+- 💼 **[Dynamic Portfolio](https://ayushkrprofile018.netlify.app/)** - Modern responsive portfolio with dark/light mode
 
 ---
 
@@ -100,7 +100,7 @@ funFact: "I can build AI that understands emotions! 🤖❤️"
   <a href="https://www.linkedin.com/in/ayush-kumar-148412258/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://ayushprofile18.netlify.app/" target="_blank">
+  <a href="https://ayushkrprofile018.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://x.com/Ayushkr718?s=08" target="_blank">
