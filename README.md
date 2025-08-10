@@ -112,16 +112,6 @@ funFact: "I can build AI that understands emotions! 🤖❤️"
 </p>
 
 ---
-
-### 🔥 **Latest Activity**
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayushkr018&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-</p>
-
 ---
 
 <p align="center">
