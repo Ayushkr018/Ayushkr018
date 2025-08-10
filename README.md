@@ -68,7 +68,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Data_Science-1F425F?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analyst-1F425F?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Big_Data-FF6C37?style=for-the-badge&logo=apache-hadoop&logoColor=white" />
 </p>
 
