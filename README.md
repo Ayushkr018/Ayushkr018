@@ -80,16 +80,6 @@
 
 ---
 
-### 📈 **Current Focus Areas**
-
-const ayush = {
-currentlyWorking: ["AI Voice Assistants", "Data Visualization", "Full Stack Apps"],
-learningNext: ["Machine Learning", "Cloud Computing", "DevOps"],
-talkAbout: ["JavaScript", "Python", "Data Science", "AI/ML", "Web Development"],
-funFact: "I can build AI that understands emotions! 🤖❤️"
-};
-
----
 
 ### 📫 **Let's Connect & Collaborate**
 
