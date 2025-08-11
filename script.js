@@ -67,7 +67,8 @@ function initCursor() {
     }
     animateCursor();
 
-    const hoverElements = document.querySelectorAll('a, button, .skill-circle, .project-box, .social-icon, .certificate, .theme-toggle, .tech-bubble');
+    // Updated hover elements to include certificate cards
+    const hoverElements = document.querySelectorAll('a, button, .skill-circle, .project-box, .social-icon, .certificate-card, .certificate-btn, .theme-toggle, .tech-bubble');
     hoverElements.forEach(element => {
         element.addEventListener('mouseenter', () => {
             cursor.classList.add('hover');
@@ -207,6 +208,7 @@ function toggleResume() {
     }
 }
 
+// Updated certificate toggle function for card layout
 function toggleCertificates() {
     const certificateList = document.getElementById('certificate-list');
     const icon = document.getElementById('certificate-icon');
@@ -216,12 +218,77 @@ function toggleCertificates() {
         certificateList.classList.remove('show');
         icon.className = 'fas fa-eye';
         text.textContent = 'Show Certificates';
+        
+        // Add staggered animation for hiding cards
+        const cards = certificateList.querySelectorAll('.certificate-card');
+        cards.forEach((card, index) => {
+            setTimeout(() => {
+                card.style.transform = 'translateY(30px) scale(0.95)';
+                card.style.opacity = '0';
+            }, index * 50);
+        });
     } else {
         certificateList.classList.add('show');
         icon.className = 'fas fa-eye-slash';
         text.textContent = 'Hide Certificates';
+        
+        // Add staggered animation for showing cards
+        const cards = certificateList.querySelectorAll('.certificate-card');
+        cards.forEach((card, index) => {
+            card.style.transform = 'translateY(30px) scale(0.95)';
+            card.style.opacity = '0';
+            
+            setTimeout(() => {
+                card.style.transform = 'translateY(0) scale(1)';
+                card.style.opacity = '1';
+            }, 200 + (index * 100));
+        });
     }
 }
+
+// Add certificate card hover effects
+function initCertificateCardEffects() {
+    const certificateCards = document.querySelectorAll('.certificate-card');
+    
+    certificateCards.forEach(card => {
+        card.addEventListener('mouseenter', () => {
+            // Add subtle tilt effect
+            const rect = card.getBoundingClientRect();
+            const centerX = rect.left + rect.width / 2;
+            const centerY = rect.top + rect.height / 2;
+            
+            card.addEventListener('mousemove', (e) => {
+                const mouseX = e.clientX - centerX;
+                const mouseY = e.clientY - centerY;
+                
+                const rotateX = (mouseY / rect.height) * 10;
+                const rotateY = -(mouseX / rect.width) * 10;
+                
+                card.style.transform = `perspective(1000px) rotateX(${rotateX}deg) rotateY(${rotateY}deg) translateY(-8px)`;
+            });
+        });
+        
+        card.addEventListener('mouseleave', () => {
+            card.style.transform = 'perspective(1000px) rotateX(0deg) rotateY(0deg) translateY(0px)';
+        });
+        
+        // Add click animation
+        card.addEventListener('mousedown', () => {
+            card.style.transform += ' scale(0.98)';
+        });
+        
+        card.addEventListener('mouseup', () => {
+            card.style.transform = card.style.transform.replace(' scale(0.98)', '');
+        });
+    });
+}
+
+// Initialize certificate card effects after DOM is loaded
+document.addEventListener('DOMContentLoaded', () => {
+    setTimeout(() => {
+        initCertificateCardEffects();
+    }, 1000);
+});
 
 function handleSubmit(event) {
     event.preventDefault();
@@ -384,5 +451,5 @@ window.addEventListener('error', (e) => {
 });
 
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('🚀 Portfolio loaded successfully!');
+    console.log('🚀 Portfolio loaded successfully with Certificate Cards!');
 });
