@@ -268,6 +268,7 @@
         </div>
     </section>
 
+    <!-- Updated Certificates Section with Card Design -->
     <section id="certificates" class="certificates fade-in">
         <h2>Certificates</h2>
         <button onclick="toggleCertificates()" id="certificate-toggle-button">
@@ -275,78 +276,190 @@
             <span id="certificate-text">Show Certificates</span>
         </button>
 
-        <div id="certificate-list">
-            <div class="certificate">
-                <div>
+        <div id="certificate-list" class="certificates-grid">
+            <div class="certificate-card">
+                <div class="certificate-header">
+                    <div class="certificate-icon">
+                        <i class="fas fa-chart-bar"></i>
+                    </div>
+                    <div class="certificate-badge">
+                        <i class="fas fa-award"></i>
+                    </div>
+                </div>
+                <div class="certificate-content">
                     <h4>Power BI</h4>
-                    <p>Issued by AcceleratorX</p>
+                    <p class="certificate-issuer">Issued by AcceleratorX</p>
+                    <p class="certificate-description">Advanced data visualization and business intelligence</p>
                 </div>
-                <div>
-                    <a href="Assets/new c-11.pdf" target="_blank">View</a>
-                    <a href="Assets/new c-11.pdf" download>Download</a>
-                </div>
-            </div>
-            <div class="certificate">
-                <div>
-                    <h4>Bigdata</h4>
-                    <p>Issued by Guvi|HCL</p>
-                </div>
-                <div>
-                    <a href="Assets/guvi.pdf" target="_blank">View</a>
-                    <a href="Assets/guvi.pdf" download>Download</a>
+                <div class="certificate-actions">
+                    <a href="Assets/new c-11.pdf" target="_blank" class="certificate-btn view-btn">
+                        <i class="fas fa-eye"></i>
+                        View
+                    </a>
+                    <a href="Assets/new c-11.pdf" download class="certificate-btn download-btn">
+                        <i class="fas fa-download"></i>
+                        Download
+                    </a>
                 </div>
             </div>
-            <div class="certificate">
-                <div>
+
+            <div class="certificate-card">
+                <div class="certificate-header">
+                    <div class="certificate-icon">
+                        <i class="fas fa-database"></i>
+                    </div>
+                    <div class="certificate-badge">
+                        <i class="fas fa-award"></i>
+                    </div>
+                </div>
+                <div class="certificate-content">
+                    <h4>Big Data</h4>
+                    <p class="certificate-issuer">Issued by Guvi|HCL</p>
+                    <p class="certificate-description">Big data processing and analytics</p>
+                </div>
+                <div class="certificate-actions">
+                    <a href="Assets/guvi.pdf" target="_blank" class="certificate-btn view-btn">
+                        <i class="fas fa-eye"></i>
+                        View
+                    </a>
+                    <a href="Assets/guvi.pdf" download class="certificate-btn download-btn">
+                        <i class="fas fa-download"></i>
+                        Download
+                    </a>
+                </div>
+            </div>
+
+            <div class="certificate-card">
+                <div class="certificate-header">
+                    <div class="certificate-icon">
+                        <i class="fas fa-brain"></i>
+                    </div>
+                    <div class="certificate-badge">
+                        <i class="fas fa-award"></i>
+                    </div>
+                </div>
+                <div class="certificate-content">
                     <h4>Data Science</h4>
-                    <p>Issued by IBM</p>
+                    <p class="certificate-issuer">Issued by IBM</p>
+                    <p class="certificate-description">Machine learning and data analysis</p>
                 </div>
-                <div>
-                    <a href="Assets/ibm.pdf" target="_blank">View</a>
-                    <a href="Assets/ibm.pdf" download>Download</a>
+                <div class="certificate-actions">
+                    <a href="Assets/ibm.pdf" target="_blank" class="certificate-btn view-btn">
+                        <i class="fas fa-eye"></i>
+                        View
+                    </a>
+                    <a href="Assets/ibm.pdf" download class="certificate-btn download-btn">
+                        <i class="fas fa-download"></i>
+                        Download
+                    </a>
                 </div>
             </div>
-            <div class="certificate">
-                <div>
+
+            <div class="certificate-card">
+                <div class="certificate-header">
+                    <div class="certificate-icon">
+                        <i class="fas fa-chess"></i>
+                    </div>
+                    <div class="certificate-badge">
+                        <i class="fas fa-award"></i>
+                    </div>
+                </div>
+                <div class="certificate-content">
                     <h4>Strategic Decision</h4>
-                    <p>Issued by Udemy</p>
+                    <p class="certificate-issuer">Issued by Udemy</p>
+                    <p class="certificate-description">Strategic thinking and decision making</p>
                 </div>
-                <div>
-                    <a href="Assets/strategic.pdf" target="_blank">View</a>
-                    <a href="Assets/strategic.pdf" download>Download</a>
+                <div class="certificate-actions">
+                    <a href="Assets/strategic.pdf" target="_blank" class="certificate-btn view-btn">
+                        <i class="fas fa-eye"></i>
+                        View
+                    </a>
+                    <a href="Assets/strategic.pdf" download class="certificate-btn download-btn">
+                        <i class="fas fa-download"></i>
+                        Download
+                    </a>
                 </div>
             </div>
-            <div class="certificate">
-                <div>
+
+            <div class="certificate-card">
+                <div class="certificate-header">
+                    <div class="certificate-icon">
+                        <i class="fas fa-product-hunt"></i>
+                    </div>
+                    <div class="certificate-badge">
+                        <i class="fas fa-award"></i>
+                    </div>
+                </div>
+                <div class="certificate-content">
                     <h4>Product Management</h4>
-                    <p>Issued by Udemy</p>
+                    <p class="certificate-issuer">Issued by Udemy</p>
+                    <p class="certificate-description">Product development and management</p>
                 </div>
-                <div>
-                    <a href="Assets/product.pdf" target="_blank">View</a>
-                    <a href="Assets/product.pdf" download>Download</a>
+                <div class="certificate-actions">
+                    <a href="Assets/product.pdf" target="_blank" class="certificate-btn view-btn">
+                        <i class="fas fa-eye"></i>
+                        View
+                    </a>
+                    <a href="Assets/product.pdf" download class="certificate-btn download-btn">
+                        <i class="fas fa-download"></i>
+                        Download
+                    </a>
                 </div>
             </div>
-            <div class="certificate">
-                <div>
+
+            <div class="certificate-card">
+                <div class="certificate-header">
+                    <div class="certificate-icon">
+                        <i class="fas fa-file-alt"></i>
+                    </div>
+                    <div class="certificate-badge">
+                        <i class="fas fa-award"></i>
+                    </div>
+                </div>
+                <div class="certificate-content">
                     <h4>Research Paper</h4>
-                    <p>Issued by IJRASET</p>
+                    <p class="certificate-issuer">Issued by IJRASET</p>
+                    <p class="certificate-description">Published research contribution</p>
                 </div>
-                <div>
-                    <a href="Assets/ayush cer.pdf" target="_blank">View</a>
-                    <a href="Assets/ayush cer.pdf" download>Download</a>
+                <div class="certificate-actions">
+                    <a href="Assets/ayush cer.pdf" target="_blank" class="certificate-btn view-btn">
+                        <i class="fas fa-eye"></i>
+                        View
+                    </a>
+                    <a href="Assets/ayush cer.pdf" download class="certificate-btn download-btn">
+                        <i class="fas fa-download"></i>
+                        Download
+                    </a>
                 </div>
             </div>
-            <div class="certificate">
-                <div>
-                    <h4>Data Science</h4>
-                    <p>Issued by Forage</p>
+
+            <div class="certificate-card">
+                <div class="certificate-header">
+                    <div class="certificate-icon">
+                        <i class="fas fa-chart-line"></i>
+                    </div>
+                    <div class="certificate-badge">
+                        <i class="fas fa-award"></i>
+                    </div>
                 </div>
-                <div>
-                    <a href="Assets/ayush bcz.pdf" target="_blank">View</a>
-                    <a href="Assets/ayush bcz.pdf" download>Download</a>
+                <div class="certificate-content">
+                    <h4>Data Science</h4>
+                    <p class="certificate-issuer">Issued by Forage</p>
+                    <p class="certificate-description">Data science virtual experience</p>
+                </div>
+                <div class="certificate-actions">
+                    <a href="Assets/ayush bcz.pdf" target="_blank" class="certificate-btn view-btn">
+                        <i class="fas fa-eye"></i>
+                        View
+                    </a>
+                    <a href="Assets/ayush bcz.pdf" download class="certificate-btn download-btn">
+                        <i class="fas fa-download"></i>
+                        Download
+                    </a>
                 </div>
             </div>
         </div>
+        
         <p class="animated-quote">
             <span class="marquee-text">A journey of constant learning and growth</span>
         </p>
@@ -396,7 +509,3 @@
     <script src="script.js"></script>
 </body>
 </html>
-
-
-
-
