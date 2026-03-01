@@ -1,63 +1,63 @@
 <h1 align="center">Ayush Kumar</h1>
-<h3 align="center">Full Stack Developer • AI/ML Enthusiast • Data Analyst</h3>
 
 <p align="center">
-Building intelligent systems and scalable web applications.
+  <strong>Full Stack Engineer • AI Builder • Data Strategist</strong>
 </p>
 
 <p align="center">
-<a href="https://ayushkrprofile018.netlify.app/">Portfolio</a> •
-<a href="https://www.linkedin.com/in/ayush-kumar-148412258/">LinkedIn</a> •
-<a href="mailto:ayushkr1974@gmail.com">Email</a>
-</p>
-
----
-
-## Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,python,java,mongodb,mysql,git,linux&perline=7" />
+  <a href="https://ayushkrprofile018.netlify.app/">Portfolio</a> |
+  <a href="https://www.linkedin.com/in/ayush-kumar-148412258/">LinkedIn</a> |
+  <a href="mailto:ayushkr1974@gmail.com">Email</a> |
+  <a href="https://github.com/Ayushkr018">GitHub</a>
 </p>
 
 ---
 
-## Featured Work
+## Engineering Mindset
 
-**Ellyse AI Assistant**  
-Voice-controlled AI assistant with emotion recognition  
-
-**Sentiment Analyzer**  
-Real-time speech-based sentiment detection  
-
-**Dynamic Portfolio**  
-Next.js powered modern portfolio  
+I design and build intelligent digital systems that combine scalable backend architecture with user-focused frontend experiences.  
+Currently focused on AI-powered applications and performance-driven full-stack systems.
 
 ---
 
-## GitHub Analytics
+## Core Expertise
+
+Frontend Architecture  
+React • Next.js • TypeScript • Tailwind
+
+Backend Systems  
+Node.js • Express • Python • REST APIs
+
+Data & Intelligence  
+Machine Learning • NLP • Power BI • Analytics
+
+Databases  
+MongoDB • MySQL
+
+---
+
+## Highlight Projects
+
+Ellyse AI Assistant  
+AI voice system with emotion recognition and contextual response engine.
+
+Sentiment Analyzer  
+Real-time speech emotion detection using ML pipelines.
+
+Dynamic Portfolio  
+Modern Next.js portfolio with theme engine and responsive UI.
+
+---
+
+## What I’m Building Toward
+
+• AI-first products  
+• Scalable SaaS architectures  
+• High-performance web platforms  
+• Real-world problem solving with data
+
+---
 
 <p align="center">
-<img 
-src="https://github-readme-stats.vercel.app/api?username=Ayushkr018&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" 
-height="170" 
-/>
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkr018&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" 
-height="170" 
-/>
-</p>
-
----
-
-## Focus Areas
-
-- AI & Machine Learning Applications  
-- Scalable Full Stack Systems  
-- Data Analytics & Visualization  
-- Performance Optimization  
-
----
-
-<p align="center">
-Curiosity meets execution.
+  <i>Building systems that think, scale, and perform.</i>
 </p>
