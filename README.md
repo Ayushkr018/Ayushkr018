@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&animation=fadeIn" width="100%"/>
 
 <a href="https://ayushkrprofile018.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=64&duration=3500&pause=99999&color=F0EEE8&center=true&vCenter=true&width=800&height=100&lines=Ayush+Kumar" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=68&duration=3500&pause=99999&color=F0EEE8&center=true&vCenter=true&width=900&height=110&lines=Ayush+Kumar" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=800&height=35&lines=Full+Stack+Engineer;AI+Systems+Builder;Scalable+Product+Architect" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=900&height=40&lines=Full+Stack+Engineer;AI+Systems+Architect;Data+Driven+Product+Builder" />
 
-<br/>
+<br/><br/>
 
 <a href="https://ayushkrprofile018.netlify.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-161b22?style=for-the-badge&logo=vercel&logoColor=58a6ff"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff"/>
 </a>
 <a href="https://www.linkedin.com/in/ayush-kumar-148412258/">
-  <img src="https://img.shields.io/badge/LINKEDIN-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 <a href="mailto:ayushkr1974@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  <img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <br/><br/>
@@ -28,14 +28,13 @@
 
 ## Engineering Philosophy
 
-I build intelligent systems where backend scalability meets adaptive AI logic and high-performance frontend execution.
+I design intelligent digital systems where backend scalability meets adaptive AI logic and precision-crafted frontend execution.
 
-My focus is not just writing code —  
-it is designing architectures that remain stable under pressure and scale with growth.
+My work focuses on real-world robustness — systems that remain stable, performant, and scalable under pressure.
 
 ---
 
-## Technology Stack
+## Core Stack
 
 <div align="center">
 
@@ -47,29 +46,29 @@ it is designing architectures that remain stable under pressure and scale with g
 
 ## Signature Systems
 
-### ELLYSE — AI Voice Infrastructure  
-Emotion-aware AI assistant with real-time command execution, system control, and contextual response logic.
+### ELLYSE — AI Voice Infrastructure
+Emotion-aware AI assistant with real-time command execution and contextual response generation.
 
-### SCMS — Real-Time Classroom Platform  
-Live sessions, QR attendance, analytics engine, and interactive academic workflows.
+### SCMS — Real-Time Classroom Platform
+Live sessions, QR attendance, assignment management, and analytics engine.
 
-### WELLNESS EIRENE — AI Mental Wellness Engine  
-Mood prediction pipelines, multilingual interaction models, and adaptive therapy modules.
+### WELLNESS EIRENE — AI Mental Wellness Engine
+Mood prediction pipelines and adaptive therapy modules with multilingual support.
 
 ---
 
-## GitHub Intelligence
+## GitHub Analytics
 
 <div align="center">
 
 <img 
-src="https://github-readme-stats.vercel.app/api?username=Ayushkr018&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800" 
-width="48%" 
+src="https://github-readme-stats.vercel.app/api?username=Ayushkr018&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" 
+width="49%" 
 />
 
 <img 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkr018&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=1800" 
-width="48%" 
+width="49%" 
 />
 
 </div>
@@ -78,10 +77,10 @@ width="48%"
 
 ## Strategic Direction
 
-01 — AI-first products with adaptive intelligence  
-02 — High-performance SaaS infrastructure  
-03 — Data-driven system architecture  
-04 — Production-ready scalable deployments  
+01 — AI-first adaptive systems  
+02 — Scalable SaaS infrastructure  
+03 — Data-driven architecture  
+04 — High-performance production deployments  
 
 ---
 
@@ -91,6 +90,6 @@ width="48%"
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
 
 </div>
